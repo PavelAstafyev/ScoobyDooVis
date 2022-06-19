@@ -1,4 +1,4 @@
-# ScoobyDooVis
+# ScoobyDooViz
 
 Our project
 
