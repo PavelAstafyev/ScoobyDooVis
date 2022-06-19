@@ -1,1 +1,3 @@
 # ScoobyDooVis
+
+Our project
